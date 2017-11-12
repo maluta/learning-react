@@ -25,6 +25,7 @@
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
+  "host":"192.168.0.105",
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^3.10.1",

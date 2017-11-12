@@ -13,3 +13,7 @@ I'm following his video course on Udemy.
   Vocabulary: welcome JSX, ES6 and Babel new syntaxes, i.e: ``const App = () => {`` and different ways to do the same thing!<br>
   Boilerplate code: project setup, components, error handling <br>
   Concepts: functional and class components, state, ES6 import/export statements
+
+- 11.10.2017 - Returned
+
+  xxx
